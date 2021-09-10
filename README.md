@@ -2,7 +2,7 @@
 <h1 align="center"><strong style="color:yellow">Watch</strong>Me</h1>
 <p align="center">Este projeto é o Desafio 02 do Ignite React!</p>
 <h1 align="center">
-  <img alt="Tela inicial da aplicação WatchMe" title="#to-do" src="https://github.com/JavelFreitas/Desafio-02-Ignite-React/blob/main/assets/TelaInicial.PNG" />
+  <img alt="Tela inicial da aplicação WatchMe" title="#WatchMe" src="https://github.com/JavelFreitas/Desafio-02-Ignite-React/blob/main/assets/TelaInicial.PNG" />
 </h1>
 <img src="https://img.shields.io/apm/l/vim-mode"/>
 <img src="https://img.shields.io/npm/types/typescript?color=blue&label=language"/>
